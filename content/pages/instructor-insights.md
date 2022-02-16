@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 8bbd0df2-02ec-5150-a5d4-1d0325fbf268
 ---
@@ -100,20 +102,6 @@ HASS ![](/images/educator/icon-question-hass.png)
 ### Offered
 
 _CMS.701 Current Debates in Media_ is offered intermittently.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Large, wide chalkboard in a lecture room with a rectangular table and 16 moveable chairs placed around it. ]({{< resource_file 6da8ab6e-265a-2ff4-17f1-2b244ae8fce0 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This course was taught in a lecture room with capacity for 16 students. The room features an LCD video projector with moveable furniture placed around a seminar table along with a fixed chalkboard and two large windows.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
