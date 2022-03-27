@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 198c70e4-7449-277a-24ba-73c0e33fa31f
 resourcetype: Document
 title: CMS.701 Media Violence Lecture Notes
 uid: 3727dffb-8906-77ad-69d5-90bece21e669

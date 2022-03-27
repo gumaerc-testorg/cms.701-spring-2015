@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Audio
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Gamification & Us: Promises and Challenges of a Gameful World'
 uid: d1018845-a716-bfa8-f47d-38f6ba07d23a
 video_files:

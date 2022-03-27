@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 198c70e4-7449-277a-24ba-73c0e33fa31f
 resourcetype: Document
 title: CMS.701s15 Propaganda Survival Guide
 uid: 07a91bc5-afb8-4022-8a01-0f7873c66506

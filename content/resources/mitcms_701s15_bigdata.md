@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 198c70e4-7449-277a-24ba-73c0e33fa31f
 resourcetype: Document
 title: CMS.701s15 Big Data Lecture Notes
 uid: 3e5b607d-2521-8d6b-cb24-aea5b49ed6d6

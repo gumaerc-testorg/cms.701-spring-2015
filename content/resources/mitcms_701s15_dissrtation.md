@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4c06733e-ec6d-0da6-3a86-82ed555f2a34
 resourcetype: Document
 title: CMS.701s15 Dissertation Guidelines
 uid: da163d6d-24a7-36fc-f998-146d37ca9f34

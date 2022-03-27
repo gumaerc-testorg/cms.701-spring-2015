@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Audio
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: "\"Interview with Lara Baladi\u201D by Gabrielle Tr\xE9panier-Jobin"
 uid: 14e8752d-0b4e-6fad-6bd6-8155e2064a94
 video_files:

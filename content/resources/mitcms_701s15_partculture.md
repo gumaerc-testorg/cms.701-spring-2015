@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 198c70e4-7449-277a-24ba-73c0e33fa31f
 resourcetype: Document
 title: CMS.701s15 Participatory Culture Lecture Notes
 uid: 6289b553-f449-22c1-332f-49073c3ce600
