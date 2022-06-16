@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Audio
+ocw_type: ''
 optional_tab_title: Online Resources
 optional_text: "*   [Alone Together\u2026 Tahrir Two Years Later](http://creativetimereports.org/2013/01/25/tahrir-revolution-in-media-res/)\n\
   *   [Unfixed Images: Remembering Lebanon's Civil War](http://creativetimereports.org/2015/04/13/remembering-lebanons-civil-war-lara-baladi/)"
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** Interview with Lara Baladi, Egyptian-Lebanese artist and activist.
 
 **Instructor:** Lara Baladi and Gabrielle Trepanier-Jobin
+
+
+

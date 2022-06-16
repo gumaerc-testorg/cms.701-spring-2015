@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course assignments, dissertations
+  guidelines, and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ Grade: / 35
 Dissertation – 40%, due last session
 ------------------------------------
 
-[_Dissertation Guidelines (PDF)_]({{< baseurl >}}/resources/mitcms_701s15_dissrtation)
+{{% resource_link da163d6d-24a7-36fc-f998-146d37ca9f34 "_Dissertation Guidelines (PDF)_" %}}
 
 At the end of the semester, you will have to submit a 15-page dissertation (1 inch margins, 1½ spaced, Times New Roman, size 12) on the current debate of your choice. You will have to discuss this debate by using the thesis / antithesis / synthesis method and by referring to class material and other reliable sources. Each paper should include a clear thesis statement, supporting evidence, original ideas, counter-arguments, and examples to illustrate your point of view. Your dissertation should have proper quotations.
 
@@ -45,7 +47,7 @@ Grade: / 40
 *   Quality of the argumentation: / 10
 *   Pertinence and good use of the sources: / 8
 
-[_Student Work Examples (PDF - 1.4MB)_]({{< baseurl >}}/resources/mitcms_701s15_finalpaper) Edited by the instructor. All dissertations are courtesy of MIT students and used with permission.
+{{% resource_link 65f2cf96-61c7-fef8-e826-ab8b6addec66 "_Student Work Examples (PDF - 1.4MB)_" %}} Edited by the instructor. All dissertations are courtesy of MIT students and used with permission.
 
 Participation in the Class Project – 10 %
 -----------------------------------------

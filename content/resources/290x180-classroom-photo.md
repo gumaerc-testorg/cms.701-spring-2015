@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-701-current-debates-in-media-spring-2015/6da8ab6e265a2ff417f12b244ae8fce0_290x180-Classroom-photo.jpg
+file: /courses/cms-701-current-debates-in-media-spring-2015/6da8ab6e265a2ff417f12b244ae8fce0_290x180-Classroom-photo.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

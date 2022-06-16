@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, prerequisites, learning objectives, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +21,7 @@ This class addresses important, current debates in media with in-depth discussio
 Prerequisites
 -------------
 
-[_CMS.100 Introduction to Media Studies_](/courses/cms-100-introduction-to-media-studies-fall-2014/)
+[_CMS.100 Introduction to Media Studies_](/courses/cms-100-introduction-to-media-studies-fall-2014)
 
 Learning Objectives
 -------------------

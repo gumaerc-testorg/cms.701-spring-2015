@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "This section provides the lecture notes used for the course. There are\
+  \ no lecture notes for sessions 1, 6\u20139, 11, and 14."
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -35,9 +37,9 @@ Ideologies, Stereotypes and Agency
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Course Ideologies and Conceptual Maps (PDF)]({{< baseurl >}}/resources/mitcms_701s15_ideologies)
+{{% resource_link f23043dd-29ce-cfba-f21e-82c058833d70 "Course Ideologies and Conceptual Maps (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stereotypes and Agency (PDF)]({{< baseurl >}}/resources/mitcms_701s15_stereotype)
+{{% resource_link daf7941e-00a4-c12a-e85f-76dd2c8f839d "Stereotypes and Agency (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -53,9 +55,9 @@ Propaganda, Censorship and Net Neutrality
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Propaganda and Censorship (PDF)]({{< baseurl >}}/resources/mitcms_701s15_propaganda)
+{{% resource_link 29cb02ca-ea98-61b8-f7cd-e7b5159048d0 "Propaganda and Censorship (PDF)" %}}
 
-[Propaganda Survival Guide (PDF)]({{< baseurl >}}/resources/mitcms_701s15_srvivalguid)
+{{% resource_link 07a91bc5-afb8-4022-8a01-0f7873c66506 "Propaganda Survival Guide (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -69,7 +71,7 @@ Propaganda, Censorship and Net Neutrality
 Violence in Media and Video Games
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Media Violence (PDF)]({{< baseurl >}}/resources/mitcms_701s15_mediavoil)
+{{% resource_link 3727dffb-8906-77ad-69d5-90bece21e669 "Media Violence (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Violence in Media and Video Games
 From Big Data to Big Brother: Surveillance and Privacy in the Information Age
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Big Data (PDF - 1.8MB)]({{< baseurl >}}/resources/mitcms_701s15_bigdata)
+{{% resource_link 3e5b607d-2521-8d6b-cb24-aea5b49ed6d6 "Big Data (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ From Big Data to Big Brother: Surveillance and Privacy in the Information Age
 Socialization and Intimacy in Digital Environments
 {{< tdclose >}}
 {{< tdopen >}}
-[Socialization and Intimacy in Digital Environments (PDF)]({{< baseurl >}}/resources/mitcms_701s15_socializtion)
+{{% resource_link ba9638c3-8517-46cd-afca-7f26b77af3f0 "Socialization and Intimacy in Digital Environments (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ Socialization and Intimacy in Digital Environments
 Collective Intelligence versus the Expert Paradigm
 {{< tdclose >}}
 {{< tdopen >}}
-[Collective Intelligence versus the Expert Paradigm (PDF - 1.5MB)]({{< baseurl >}}/resources/mitcms_701s15_colleintelli)
+{{% resource_link 7554df3c-1c50-0bef-6921-539711fa2b91 "Collective Intelligence versus the Expert Paradigm (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Collective Intelligence versus the Expert Paradigm
 Participatory Culture, Intellectual Property and Media Panic
 {{< tdclose >}}
 {{< tdopen >}}
-[Participatory Culture (PDF)]({{< baseurl >}}/resources/mitcms_701s15_partculture)
+{{% resource_link 6289b553-f449-22c1-332f-49073c3ce600 "Participatory Culture (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

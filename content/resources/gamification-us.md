@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Audio
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Audio Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** Guest lecture by Sebastian Deterding, assistant professor in the Game Design program in the College of Arts, Media and Design of Northeastern University.
 
 **Instructor:** Sebastian Deterding and Gabrielle Trepanier-Jobin
+
+
+

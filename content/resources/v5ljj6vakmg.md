@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/cms-701-current-debates-in-media-spring-2015/d8f9893998da4dc2736ff1a874bb7175_V5lJj6VAKmg.srt
+file: /courses/cms-701-current-debates-in-media-spring-2015/d8f9893998da4dc2736ff1a874bb7175_V5lJj6VAKmg.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile
