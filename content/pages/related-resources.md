@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: This section provides links to related resources for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 92c4f046-87ae-bed2-d1d2-1ba865a241b3
 ---
 
-[List of References (PDF)]({{< baseurl >}}/resources/mitcms_701s15_references) - A list of additional references by session and topic.
+{{% resource_link f884ae7e-d8fd-7c18-2894-269564ebcb79 "List of References (PDF)" %}} - A list of additional references by session and topic.
 
 [Digital Millennium Copyright Act](https://www.eff.org/issues/dmca/ )
 

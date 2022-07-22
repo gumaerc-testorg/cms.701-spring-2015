@@ -1,32 +1,30 @@
 ---
 content_type: page
-layout: instructor_insights
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 title: Instructor Insights
 uid: 8bbd0df2-02ec-5150-a5d4-1d0325fbf268
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _CMS.701 Current Debates in Media_ as it was taught by Dr. Gabrielle Trépanier-Jobin in Spring 2015.
 
 This class addresses important, current debates in media with in-depth discussion of popular perceptions and policy implications. Students engage in the critical study of the economic, political, social, and cultural significance of media, and learn to identify, analyze, and understand the complex relations among media texts, policies, institutions, industries, and infrastructures. The class offers the opportunity to discuss, in stimulating and challenging ways, topics such as ideology, propaganda, net neutrality, big data, digital hacktivism, digital rebellion, media violence, gamification, collective intelligence, participatory culture, intellectual property, artificial intelligence, etc., from historical, transcultural, and multiple methodological perspectives. Students examine the framing of these issues, their ethical and policy implications, as well as strategies for repositioning the debates.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-1.  Demonstrate, through oral presentations, discussions, and written works, an understanding of the current debates in media
-2.  Engage with complex ideas, opening up to different perspectives, and developing critical thinking skills
-3.  Learn how to discriminate between reliable and unreliable sources of information
-4.  Analyze cultural objects critically and situate this analysis in a particular theoretical framework
-5.  Use the thesis/antithesis/synthesis method to build strong and nuanced argumentation
+1. Demonstrate, through oral presentations, discussions, and written works, an understanding of the current debates in media
+2. Engage with complex ideas, opening up to different perspectives, and developing critical thinking skills
+3. Learn how to discriminate between reliable and unreliable sources of information
+4. Analyze cultural objects critically and situate this analysis in a particular theoretical framework
+5. Use the thesis/antithesis/synthesis method to build strong and nuanced argumentation
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 _Below, Dr. Gabrielle Trépanier-Jobin shares the pedagogical tools and methods she used to teach each session of CMS.701 Current Debates in Media._
 
@@ -74,7 +72,7 @@ The software [_Mentimeter_](https://www.mentimeter.com/) was used to interact wi
 
 ### ► Session 10: Collective Intelligence versus the Expert Paradigm
 
-After being introduced to the concept of collective intelligence and seeing how it applies to Wikipedia, students worked in teams of 3-4 to create a conceptual map of different sections from Jean Goodwin (2009) text’s “The Authority of Wikipedia” with the help of the software _CmapTools_. The best conceptual maps were presented to the rest of the class.
+After being introduced to the concept of collective intelligence and seeing how it applies to Wikipedia, students worked in teams of 3-4 to create a conceptual map of different sections from Jean Goodwin's (2009) text “The Authority of Wikipedia” with the help of the software _CmapTools_. The best conceptual maps were presented to the rest of the class.
 
 ### ► Session 11: Participatory Culture, Intellectual Property, & Media Panic
 
@@ -86,12 +84,11 @@ After introducing the concepts of artificial intelligence, machine learning and 
 
 {{< /div-with-class >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
-[_CMS.100 Introduction to Media Studies_](/courses/cms-100-introduction-to-media-studies-fall-2014/)
+[_CMS.100 Introduction to Media Studies_](/courses/cms-100-introduction-to-media-studies-fall-2014)
 
 ### Requirements Satisfied
 
@@ -101,24 +98,9 @@ HASS ![](/images/educator/icon-question-hass.png)
 
 _CMS.701 Current Debates in Media_ is offered intermittently.
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Large, wide chalkboard in a lecture room with a rectangular table and 16 moveable chairs placed around it. ]({{< resource_file 6da8ab6e-265a-2ff4-17f1-2b244ae8fce0 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This course was taught in a lecture room with capacity for 16 students. The room features an LCD video projector with moveable furniture placed around a seminar table along with a fixed chalkboard and two large windows.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 The students' grades were based on the following activities:
 
@@ -127,10 +109,11 @@ The students' grades were based on the following activities:
 - 40% Dissertation
 - 10% Participation in the class project
 
-Student Information
--------------------
+## Student Information
 
-![There were 15 students enrolled in this course.]({{< resource_file b44e6103-ab83-75e0-1abb-bae7638a4b46 >}})
+### Enrollment
+
+15 students
 
 ### Breakdown by Year
 
@@ -142,22 +125,19 @@ Mostly majors and minors in comparative media studies
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-In Class
---------
+### In Class
 
-*   Met once per week for 3 hours per session; 14 sessions total; mandatory attendance.
-*   Each week, one student presented for 30 minutes on a media artifact or relevant event. Presentations were followed by a 20-minute period of questions and discussion, moderated by the student who presented.
-*   For a detailed description of each session's learning activities, please see [Instructor Insights](#insights).
+- Met once per week for 3 hours per session; 14 sessions total; mandatory attendance.
+- Each week, one student presented for 30 minutes on a media artifact or relevant event. Presentations were followed by a 20-minute period of questions and discussion, moderated by the student who presented.
+- For a detailed description of each session's learning activities, please see [Instructor Insights](#insights).
 
-Out of Class
-------------
+### Out of Class
 
-*   Preparation for class discussions by completing assigned readings and posting discussion questions/topics on the class forum
-*   Preparation for a 30-minute presentation on a media artifact or a relevant event
-*   Term paper on a current debate of the student's choice
-*   Collaboration on a media analysis project with classmates
+- Preparation for class discussions by completing assigned readings and posting discussion questions/topics on the class forum
+- Preparation for a 30-minute presentation on a media artifact or a relevant event
+- Term paper on a current debate of the student's choice
+- Collaboration on a media analysis project with classmates

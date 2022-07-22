@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the readings and audio interviews assigned for
+  each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2caf59f2-852e-612c-3397-8a1337c5e75d
 ---
