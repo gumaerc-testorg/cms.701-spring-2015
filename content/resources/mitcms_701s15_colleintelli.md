@@ -6,6 +6,7 @@ file: /courses/cms-701-current-debates-in-media-spring-2015/7554df3c1c500bef6921
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: CMS.701s15 Collective Intelligence vs. the Expert Paradigm Lecture Notes
 uid: 7554df3c-1c50-0bef-6921-539711fa2b91
 ---
 This is a file that contains information regarding current debates in collective intelligence vs. the expert paradigm lecture notes.
-

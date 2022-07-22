@@ -6,6 +6,7 @@ file: /courses/cms-701-current-debates-in-media-spring-2015/da163d6d24a736fcf998
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: CMS.701s15 Dissertation Guidelines
 uid: da163d6d-24a7-36fc-f998-146d37ca9f34
 ---
 This is a file that contains information regarding Current Debates in Media Dissertation Guidelines.
-
