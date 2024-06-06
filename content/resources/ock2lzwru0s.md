@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/cms-701-current-debates-in-media-spring-2015/eeda4870a15f318e67a361e4fd0e5d1e_oCk2LZwRU0s.srt
+file_size: 176104
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
