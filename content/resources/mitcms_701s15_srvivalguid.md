@@ -3,6 +3,7 @@ content_type: resource
 description: 'This is a file that contains information regarding current debates in
   media propaganda survival guide. '
 file: /courses/cms-701-current-debates-in-media-spring-2015/07a91bc5afb840228a010f7873c66506_MITCMS_701S15_SrvivalGuid.pdf
+file_size: 551959
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -56,7 +56,7 @@ WikiLeaks, Edward Snowden
 
 Digital Rebellion, Direct Democracy and Cyber Left
 
-*Guest*: {{% resource_link "3ea489d7-7346-49c7-9c68-85228168ad79" "Lara Baladi" %}}, Egyptian-Lebanese artist and activist
+*Guest*: [Lara Baladi](https://en.wikipedia.org/wiki/Lara_Baladi), Egyptian-Lebanese artist and activist
 
 {{< tdclose >}}{{< tdopen >}}
 Occupy Wall Street, Idle No More, Protests in China / Greece / Madrid, Protests Against Police Violence
@@ -72,7 +72,7 @@ AAA Video Game (Fable, Lara Croft, Grand Theft Auto), Indie Games
 
 From Gamification to Gamepocalypse
 
-*Guest*: {{% resource_link "861093fe-d695-4793-8a70-f4c51fcd9754" "Sebastian Deterding," %}} Professor at Northeastern University
+*Guest*: [Sebastian Deterding,](https://codingconduct.cc/About) Professor at Northeastern University
 
 {{< tdclose >}}{{< tdopen >}}
 Nike+, Mint, Foursquare, Fold it, Serious Games, Advergames
