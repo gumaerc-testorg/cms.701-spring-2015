@@ -3,6 +3,7 @@ content_type: resource
 description: This is a file that contains information regarding current debates in
   media participatory culture lecture notes.
 file: /courses/cms-701-current-debates-in-media-spring-2015/6289b553f44922c1332f49073c3ce600_MITCMS_701S15_PartCulture.pdf
+file_size: 515780
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
