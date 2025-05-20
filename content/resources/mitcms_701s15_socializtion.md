@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding current debates in
   media socialization and intimacy in digital environments lecture notes.
-file: /ol-ocw-studio-app/courses/cms-701-current-debates-in-media-spring-2015/ba9638c3851746cdafca7f26b77af3f0_MITCMS_701S15_Socializtion.pdf
+file: /courses/cms-701-current-debates-in-media-spring-2015/ba9638c3851746cdafca7f26b77af3f0_MITCMS_701S15_Socializtion.pdf
 file_size: 528095
 file_type: application/pdf
 learning_resource_types:

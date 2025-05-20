@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding Current Debates in
   Media List of References.
-file: /ol-ocw-studio-app/courses/cms-701-current-debates-in-media-spring-2015/f884ae7ed8fd7c182894269564ebcb79_MITCMS_701S15_References.pdf
+file: /courses/cms-701-current-debates-in-media-spring-2015/f884ae7ed8fd7c182894269564ebcb79_MITCMS_701S15_References.pdf
 file_size: 161240
 file_type: application/pdf
 learning_resource_types: []

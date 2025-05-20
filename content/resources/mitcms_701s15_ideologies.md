@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding current debates in
   course ideologies and conceptual maps lecture notes.
-file: /ol-ocw-studio-app/courses/cms-701-current-debates-in-media-spring-2015/f23043dd29cecfbaf21e82c058833d70_MITCMS_701S15_Ideologies.pdf
+file: /courses/cms-701-current-debates-in-media-spring-2015/f23043dd29cecfbaf21e82c058833d70_MITCMS_701S15_Ideologies.pdf
 file_size: 833799
 file_type: application/pdf
 learning_resource_types:
