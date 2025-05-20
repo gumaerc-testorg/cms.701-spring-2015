@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding current debates in
   collective intelligence vs. the expert paradigm lecture notes.
-file: /ol-ocw-studio-app/courses/cms-701-current-debates-in-media-spring-2015/7554df3c1c500bef6921539711fa2b91_MITCMS_701S15_ColleIntelli.pdf
+file: /courses/cms-701-current-debates-in-media-spring-2015/7554df3c1c500bef6921539711fa2b91_MITCMS_701S15_ColleIntelli.pdf
 file_size: 1522216
 file_type: application/pdf
 learning_resource_types:

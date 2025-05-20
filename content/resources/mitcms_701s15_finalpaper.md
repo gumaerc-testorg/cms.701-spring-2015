@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding Current Debates in
   Media Final paper.
-file: /ol-ocw-studio-app/courses/cms-701-current-debates-in-media-spring-2015/65f2cf9661c7fef8e826ab8b6addec66_MITCMS_701S15_FinalPaper.pdf
+file: /courses/cms-701-current-debates-in-media-spring-2015/65f2cf9661c7fef8e826ab8b6addec66_MITCMS_701S15_FinalPaper.pdf
 file_size: 1451281
 file_type: application/pdf
 learning_resource_types:
