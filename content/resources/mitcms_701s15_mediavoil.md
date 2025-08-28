@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding current debates in
   media violence lecture notes.
-file: /courses/cms-701-current-debates-in-media-spring-2015/3727dffb890677ad69d590bece21e669_MITCMS_701S15_Mediavoil.pdf
+file: /ol-ocw-studio-app/courses/cms-701-current-debates-in-media-spring-2015/3727dffb890677ad69d590bece21e669_MITCMS_701S15_Mediavoil.pdf
 file_size: 713525
 file_type: application/pdf
 learning_resource_types:
