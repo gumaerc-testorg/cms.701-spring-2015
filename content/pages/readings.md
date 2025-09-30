@@ -47,13 +47,13 @@ Ideologies, Stereotypes and Agency
 {{< tdopen >}}
 
 
-Hall, Stuart. "Culture, the Media and the 'Ideological Effect'." In _Understanding Stuart Hall_. Sage Publications Limited, 2004. ISBN: 9780761947141. \[Preview with [Google Books](http://books.google.com/books?id=w0D_a0G4ACkC&pg=PA79=onepage)\]
+Hall, Stuart. "Culture, the Media and the 'Ideological Effect'." In _Understanding Stuart Hall_. Sage Publications Limited, 2004. ISBN: 9780761947141. \[Preview with {{% resource_link "66863484-e1f5-4ab4-961e-6ec58f3d5f72" "Google Books" %}}\]
 
-Adorno, Theodor, and Max Horkheimer. "The Culture Industry." In _Stardom and Celebrity: A Reader._ Sage Publications Limited, 2007. ISBN: 9781412923217. \[Preview with [Google Books](http://books.google.com/books?id=5y2gOzdDojgC&pg=PA34=onepage)\]
+Adorno, Theodor, and Max Horkheimer. "The Culture Industry." In _Stardom and Celebrity: A Reader._ Sage Publications Limited, 2007. ISBN: 9781412923217. \[Preview with {{% resource_link "24ccb3e6-b4eb-4426-95d1-d004925c5210" "Google Books" %}}\]
 
-Schweinitz, Jorg. "The Intellectual Viewpoint Versus the Stereotype in Mass Culture." In _Film and Stereotype: A Challenge for Cinema and Theory_. Columbia University Press, 2011. ISBN: 9780231151481. \[Preview with [Google Books](http://books.google.com/books?id=faA4AAAAQBAJ&pg=PA96=onepage)\]
+Schweinitz, Jorg. "The Intellectual Viewpoint Versus the Stereotype in Mass Culture." In _Film and Stereotype: A Challenge for Cinema and Theory_. Columbia University Press, 2011. ISBN: 9780231151481. \[Preview with {{% resource_link "1da68248-d06a-4781-9370-673b89b74503" "Google Books" %}}\]
 
-Butler, Judith. _Excitable Speech: A Politics of the Performative_. Routledge, 1997. ISBN: 9780415915885. \[Preview with [Google Books](http://books.google.com/books?id=joKHp_9D9E0C&pg=PAfrontcover)\]
+Butler, Judith. _Excitable Speech: A Politics of the Performative_. Routledge, 1997. ISBN: 9780415915885. \[Preview with {{% resource_link "e2dc0de5-0714-4d87-84b2-bebe10a7af5b" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -71,13 +71,13 @@ Propaganda, Censorship and Net Neutrality
 
 Herman, Edward S., and Noah Chomsky. _Manufacturing Consent: The Political Economy of the Mass Media_. Pantheon, 2002. ISBN: 9780375714498. (Introduction pages only.)
 
-Patrick, Brian. _The Ten Commandments of Propaganda_. Arktos Media Limited, 2013. ISBN: 9781907166815. \[Preview with [Google Books](http://books.google.com/books?id=jnte2dHLRTcC&pg=PAfrontcover)\]
+Patrick, Brian. _The Ten Commandments of Propaganda_. Arktos Media Limited, 2013. ISBN: 9781907166815. \[Preview with {{% resource_link "47c1a7bf-070d-44a8-99e6-73c62ebc2583" "Google Books" %}}\]
 
-Obama, Barack. "[Net Neutrality](https://obamawhitehouse.archives.gov/net-neutrality)." 2014.
+Obama, Barack. "{{% resource_link "da2e1b10-73d7-4856-9458-ea5b62ae7d47" "Net Neutrality" %}}." 2014.
 
 Stiegler, Zack, and John Anderson. _Regulating the Web: Network Neutrality and the Fate of the Open Internet_. Lexington Books, 2014. ISBN: 9780739197639.
 
-[_Manufacturing Dissent: Uncovering Michael Moore_](http://www.imdb.com/title/tt0961117/). Directed by Melnyk, and Caine. Color, 97 min. 2007.
+{{% resource_link "d16c096b-b6f5-4156-a5a4-39e18e18f25b" "_Manufacturing Dissent: Uncovering Michael Moore_" %}}. Directed by Melnyk, and Caine. Color, 97 min. 2007.
 
 
 {{< tdclose >}}
@@ -117,11 +117,11 @@ From Big Data to Big Brother: Surveillance and Privacy in the Information Age
 
 Bollier, David. _The Promise and Peril of Big Data_. The Aspen Institute, 2010. ISBN: 9780898435160.
 
-Mayer-Schönberger, Viktor, and Kenneth Cukier. _Big Data: A Revolution That Will Transform How We Live, Work, and Think_. Eamon Dolan / Houghton Mifflin Harcourt, 2013. ISBN: 9780544002692. \[Preview with [Google Books](http://books.google.com/books?id=HpHcGAkFEjkC&pg=PAfrontcover)\]
+Mayer-Schönberger, Viktor, and Kenneth Cukier. _Big Data: A Revolution That Will Transform How We Live, Work, and Think_. Eamon Dolan / Houghton Mifflin Harcourt, 2013. ISBN: 9780544002692. \[Preview with {{% resource_link "bc9a41a9-d657-465c-8d3c-21018ff8462a" "Google Books" %}}\]
 
-Esposti, Sara. "[When Big Data Meets Dataveillance: The Hidden Side of Analytics](http://www.researchgate.net/publication/262493771_When_big_data_meets_dataveillance_The_hidden_side_of_analytics)." _Surveillance & Society_ 12, no. 2 (2014): 209–25.
+Esposti, Sara. "{{% resource_link "3a9ea21d-3398-4f0a-84ec-2a17887bbe4d" "When Big Data Meets Dataveillance: The Hidden Side of Analytics" %}}." _Surveillance & Society_ 12, no. 2 (2014): 209–25.
 
-Kitchin, Rob. "[Big Data, New Epistemologies and Paradigm Shifts](http://dx.doi.org/10.1177/2053951714528481)." _Sage_, 2014.
+Kitchin, Rob. "{{% resource_link "965ee3c9-4b2b-4086-8300-0b75c4ef9597" "Big Data, New Epistemologies and Paradigm Shifts" %}}." _Sage_, 2014.
 
 
 {{< tdclose >}}
@@ -139,11 +139,11 @@ Digital Hacktivism, Civil Disobedience and Piracy
 
 Coleman, Gabriella. _Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous_. Verso, 2014. ISBN: 9781781685839.
 
-Sauter, Molly. _The Coming Swarm: DDOS Actions, Hacktivism, and Civil Disobedience on the Internet_. Bloomsbury Academic, 2014, pp. 1–17. ISBN: 9781623568221. \[Preview with [Google Books](http://books.google.com/books?id=PFTKBAAAQBAJ&pg=PAfrontcover)\]
+Sauter, Molly. _The Coming Swarm: DDOS Actions, Hacktivism, and Civil Disobedience on the Internet_. Bloomsbury Academic, 2014, pp. 1–17. ISBN: 9781623568221. \[Preview with {{% resource_link "a3f81084-c888-4d5c-b75b-0ce06ad4a871" "Google Books" %}}\]
 
-Sifry, Micah. _WikiLeaks and the Age of Transparency_. Counterpoint, 2011_,_ pp. 15–20. ISBN: 9781582437798. \[Preview with [Google Books](http://books.google.com/books?id=qGMHADuyIQUC&pg=PA15=onepage)\]
+Sifry, Micah. _WikiLeaks and the Age of Transparency_. Counterpoint, 2011_,_ pp. 15–20. ISBN: 9781582437798. \[Preview with {{% resource_link "3da4abeb-5578-47ab-989a-b088957d9e84" "Google Books" %}}\]
 
-Film: [_The Internet's Own Boy: The Story of Aaron Swartz_](http://www.imdb.com/title/tt3268458/). Directed by Brian Knappenberger. Color, 105 min. 2014.
+Film: {{% resource_link "3b3403db-5c8a-4a82-a377-a5e42992e223" "_The Internet's Own Boy: The Story of Aaron Swartz_" %}}. Directed by Brian Knappenberger. Color, 105 min. 2014.
 
 
 {{< tdclose >}}
@@ -158,7 +158,7 @@ Film: [_The Internet's Own Boy: The Story of Aaron Swartz_](http://www.imdb.com/
 
 Digital Rebellion, Direct Democracy and Cyber Left
 
-_Guest Speaker_: [Lara Baladi](https://en.wikipedia.org/wiki/Lara_Baladi), Egyptian-Lebanese artist and activist
+_Guest Speaker_: {{% resource_link "6e4dd6f4-bd1a-4c2a-ab96-ee807acc4933" "Lara Baladi" %}}, Egyptian-Lebanese artist and activist
 
 
 {{< tdclose >}}
@@ -169,7 +169,7 @@ Wolfson, Todd. _Digital Rebellion: The Birth of the Cyber Left_. University of I
 
 Gerbaudo, Paolo. _Tweets and the Streets: Social Media and Contemporary Activism_. Pluto Press, 2012, pp. 1–17. ISBN: 9780745332482.
 
-Eltantawy, Nahed, and Julie B. Wiest. "[The Arab Spring| Social Media in the Egyptian Revolution: Reconsidering Resource Mobilization Theory](http://ijoc.org/index.php/ijoc/article/view/1242)." _International Journal of Communication_ 5 (2011): 1207–24.
+Eltantawy, Nahed, and Julie B. Wiest. "{{% resource_link "5553e551-e892-4766-9eb9-f0fb6805830a" "The Arab Spring| Social Media in the Egyptian Revolution: Reconsidering Resource Mobilization Theory" %}}." _International Journal of Communication_ 5 (2011): 1207–24.
 
 {{% resource_link "14e8752d-0b4e-6fad-6bd6-8155e2064a94" "Audio: Interview with Lara Baladi" %}}
 
@@ -187,9 +187,9 @@ GamerGate Controversy
 {{< tdopen >}}
 
 
-"[GamerGate Manifesto](http://i.imgur.com/5qf1V5U.jpg)." 2014.
+"{{% resource_link "f515120d-2767-4b9f-aeb0-ddb2580edc1d" "GamerGate Manifesto" %}}." 2014.
 
-Heron, Michael James, Pauline Belford, et al. "[Sexism in the Circuitry: Female Participation in Male-dominated Popular Computer Culture](http://dx.doi.org/10.1145/2695577.2695582)." _ACM SIGCAS Computers and Society-Special Issue on Women in Computing_ 44, no. 4 (2014): 18–29.
+Heron, Michael James, Pauline Belford, et al. "{{% resource_link "b6468648-3133-4daa-86ef-961e35c3f8f4" "Sexism in the Circuitry: Female Participation in Male-dominated Popular Computer Culture" %}}." _ACM SIGCAS Computers and Society-Special Issue on Women in Computing_ 44, no. 4 (2014): 18–29.
 
 Richard, Gabriela T. "Gender and Gameplay." In _Playing with Virtuality: Theories and Methods of Computer Game Studies_. Peter Lang GmbH, Internationaler Verlag der Wissenschaften, 2013. ISBN: 9783631640609.
 
@@ -208,7 +208,7 @@ Shaw, Adrienne. _Gaming at the Edge: Sexuality and Gender at the Margins of Game
 
 From Gamification to Gamepocalypse
 
-_Guest Speaker_: [Sebastian Deterding](https://codingconduct.cc/About), Professor at Northeastern University
+_Guest Speaker_: {{% resource_link "111f3008-4adb-42ae-aa6f-7d7339a24e39" "Sebastian Deterding" %}}, Professor at Northeastern University
 
 
 {{< tdclose >}}
@@ -219,7 +219,7 @@ Zichermann, Gabe, and Joselin Linder. _The Gamification Revolution: How Leaders 
 
 Deterding, Sebastian. "Eudaimonic Design, or: Six invitations to Rethink Gamification." In _Rethinking Gamification_. Meson Press by Hybrid, 2014, pp. 305–23. ISBN: 9783957960009.
 
-Whitson, Jennifer R. "[Gaming the Quantified Self](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/gaming)." _Surveillance & Society_ 11, no. 1/2 (2013): 163–76.
+Whitson, Jennifer R. "{{% resource_link "254653aa-fd75-4aed-87a2-cc05db3d872d" "Gaming the Quantified Self" %}}." _Surveillance & Society_ 11, no. 1/2 (2013): 163–76.
 
 Schrape, Niklas. "Gamification and Governmentality." In _Rethinking Gamification._ Meson Press by Hybrid, 2014. ISBN: 9783957960009.
 
@@ -237,7 +237,7 @@ Socialization and Intimacy in Digital Environments
 {{< tdopen >}}
 
 
-Ducheneaut, et al. "[Alone Together?": Exploring the Social Dynamics of Massively Multiplayer Online Games](http://dx.doi.org/10.1145/1124772.1124834)." _Proceedings of the Sigchi Conference on Human Factors in Computing Systems_ (2006): 407–16.
+Ducheneaut, et al. "{{% resource_link "351f171c-c49f-4780-bcf4-aaf0c0b26740" "Alone Together?\": Exploring the Social Dynamics of Massively Multiplayer Online Games" %}}." _Proceedings of the Sigchi Conference on Human Factors in Computing Systems_ (2006): 407–16.
 
 Bonenfant, Maude. "Pour un changement de paradigme." In _Socialisation et communication dans les jeux vidéo_. 2011. ISBN: 9782760622678.
 
@@ -245,7 +245,7 @@ Bonenfant, Maude, and Yanick Farmer. "Je suis libre moi non plus." In _Mobilisat
 
 Lambert, Alexander. _Intimacy and Friendship on Facebook_. Palgrave Macmillan, 2013, pp. 8–28. ISBN: 9781137322845.
 
-Taylor, T. L. "Living Digitally: Embodiment in Virtual Worlds" In _The Social Life of Avatars: Presence and Interaction in Shared Virtual Environments_. Springer, 2002. ISBN: 9781852334611. \[Preview with [Google Books](http://books.google.com/books?id=d-7vegnIgJsC&pg=PA40=onepage)\]
+Taylor, T. L. "Living Digitally: Embodiment in Virtual Worlds" In _The Social Life of Avatars: Presence and Interaction in Shared Virtual Environments_. Springer, 2002. ISBN: 9781852334611. \[Preview with {{% resource_link "909c5782-e1b5-441b-aae4-17309f1ae285" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -275,11 +275,11 @@ Collective Intelligence versus the Expert Paradigm
 
 Lévy, Pierre. _Collective Intelligence: Mankind's Emerging World in Cyberspace_. Plenum Trade, 1997. ISBN: 9780306456350.
 
-Goodwin, Jean. "[The Authority of Wikipedia](http://works.bepress.com/jeangoodwin/2/)." _OSSA Conference Archive_, 2009.
+Goodwin, Jean. "{{% resource_link "8cda6cfa-6e54-423f-933d-1d48ec439cae" "The Authority of Wikipedia" %}}." _OSSA Conference Archive_, 2009.
 
-Jenkins, Henry. "Spoiling Survivor: The Anatomy of a Knowledge Community" In _Convergence Culture: Where Old and New Media Colilde_. New York University Press, 2006, pp. 25–58. ISBN: 9780814742815. \[Preview with [Google Books](http://books.google.com/books?id=FhEVCgAAQBAJ&pg=PA25=onepage)\]
+Jenkins, Henry. "Spoiling Survivor: The Anatomy of a Knowledge Community" In _Convergence Culture: Where Old and New Media Colilde_. New York University Press, 2006, pp. 25–58. ISBN: 9780814742815. \[Preview with {{% resource_link "9cd1feb1-94c1-4950-861d-707f83f8660c" "Google Books" %}}\]
 
-Dumais, Fabien "La sensibilité épistémique face à Wikipédia." In _Web Social: Mutation de la Communication_. Presses de l'Université du Québec, 2010. ISBN: 9782760524972. \[Preview with [Google Books](https://books.google.com/books?id=2YxyYZ8jch0C&lpg=PP1&pg=PP1#v=onepage&q&f=false)\]
+Dumais, Fabien "La sensibilité épistémique face à Wikipédia." In _Web Social: Mutation de la Communication_. Presses de l'Université du Québec, 2010. ISBN: 9782760524972. \[Preview with {{% resource_link "2db8c179-52c4-47d2-95fc-76d8f4bcf615" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -295,13 +295,13 @@ Participatory Culture, Intellectual Property and Media Panic
 {{< tdopen >}}
 
 
-Jenkins, Henry, Sam Ford, and Joshua Green. _Spreadable Media: Creating Value and Meaning in a Networked Culture_. New York University Press, 2013, pp. 291–308. ISBN: 9780814743508. \[Preview with [Google Books](http://books.google.com/books?id=M_8TCgAAQBAJ&pg=PA291=onepage)\]
+Jenkins, Henry, Sam Ford, and Joshua Green. _Spreadable Media: Creating Value and Meaning in a Networked Culture_. New York University Press, 2013, pp. 291–308. ISBN: 9780814743508. \[Preview with {{% resource_link "e2aaa009-615f-4ee4-bf75-4b2a3b4fabff" "Google Books" %}}\]
 
 Marwic, Alice. "The Fabulous Lives of Micro-Celebrities." In _Status Update: Celebrity, Publicity, and Branding in the Social Media Age_. Yale University Press, 2013. ISBN: 9780300176728.
 
 Burgess, Jean, and Joshua Green. "YouTube's Popular Culture." In _YouTube: Online Video and Participatory Culture_. Polity, 2009, pp. 38–52. ISBN: 9780745644790.
 
-Jenkins, Henry. "Quentin Tarantino's Star Wars? Grassroots Creativity Meets the Media Industry." In _Convergence Culture: Where Old and New Media Collide_. New York University Press, 2006, pp. 131–74. ISBN: 9780814742815. \[Preview with [Google Books](http://books.google.com/books?id=FhEVCgAAQBAJ&pg=PA131=onepage)\]
+Jenkins, Henry. "Quentin Tarantino's Star Wars? Grassroots Creativity Meets the Media Industry." In _Convergence Culture: Where Old and New Media Collide_. New York University Press, 2006, pp. 131–74. ISBN: 9780814742815. \[Preview with {{% resource_link "2234a3e8-ea91-42cc-9124-768c2b1826ee" "Google Books" %}}\]
 
 
 {{< tdclose >}}
@@ -317,7 +317,7 @@ Artificial Intelligence, Posthumanism and Technological Apocalypse
 {{< tdopen >}}
 
 
-Kroker, Arthur. _Exits to the Posthuman Future_. Polity, 2014, pp. 1–28. ISBN: 9780745671635. \[Preview with [Google Books](http://books.google.com/books?id=rr0YAwAAQBAJ&pg=PAfrontcover)\]
+Kroker, Arthur. _Exits to the Posthuman Future_. Polity, 2014, pp. 1–28. ISBN: 9780745671635. \[Preview with {{% resource_link "6e7d56b3-0763-406e-ad37-bc3f58e6e972" "Google Books" %}}\]
 
 McLuhan, Marshall. _The Medium is the Massage: An Inventory of Effects_. Bantam, 1967.
 
