@@ -9,8 +9,9 @@ learning_resource_types:
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: Online Resources
-optional_text: "*   [Alone Together\u2026 Tahrir Two Years Later](http://creativetimereports.org/2013/01/25/tahrir-revolution-in-media-res/)\n\
-  *   [Unfixed Images: Remembering Lebanon's Civil War](http://creativetimereports.org/2015/04/13/remembering-lebanons-civil-war-lara-baladi/)"
+optional_text: "*   {{% resource_link \"ca8e4e40-ff11-4563-a26d-3bb1e3dd1049\" \"\
+  Alone Together\u2026 Tahrir Two Years Later\" %}}\n*   {{% resource_link \"cb23c72a-11e4-411e-b123-d9ebe34eaf48\"\
+  \ \"Unfixed Images: Remembering Lebanon's Civil War\" %}}"
 parent_title: Audio Lectures
 parent_type: CourseSection
 related_resources_text: ''
