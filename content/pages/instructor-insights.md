@@ -30,7 +30,7 @@ _Below, Dr. Gabrielle Trépanier-Jobin shares the pedagogical tools and methods 
 
 ### ► Session 1: Ideologies, Stereotypes, & Agency
 
-Students worked in teams of 3-4 to create a conceptual map of different sections from Stuart Hall’s (2004) text “Culture, the Media and the ‘Ideological Effect’” with the help of the software [_CmapTools_](http://cmap.ihmc.us/). The best conceptual maps were presented to the rest of the class.
+Students worked in teams of 3-4 to create a conceptual map of different sections from Stuart Hall’s (2004) text “Culture, the Media and the ‘Ideological Effect’” with the help of the software {{% resource_link "245c9b3e-79da-4a11-b7eb-68c650e9f369" "_CmapTools_" %}}. The best conceptual maps were presented to the rest of the class.
 
 ### ► Session 2: Propaganda, Censorship, & Net Neutrality
 
@@ -68,7 +68,7 @@ An expert in gamification was invited to explain the concept and discuss issues 
 
 ### ► Session 9: Socialization and Intimacy in Digital Environments
 
-The software [_Mentimeter_](https://www.mentimeter.com/) was used to interact with the students and ask their opinion on different issues about socialization and intimacy in digital environments.
+The software {{% resource_link "5d369c78-1467-46e4-8aa8-2830bdd6ec75" "_Mentimeter_" %}} was used to interact with the students and ask their opinion on different issues about socialization and intimacy in digital environments.
 
 ### ► Session 10: Collective Intelligence versus the Expert Paradigm
 
